@@ -1,0 +1,5 @@
+{
+    "woodBox": ["woodBox.png"],
+    "ironBox": ["ironBox.png"],
+    "testBox": ["TESTtop.png", "TESTnorth.png", "TESTeast.png", "TESTsouth.png", "TESTwest.png", "TESTbottom.png"]
+}

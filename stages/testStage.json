@@ -1,0 +1,22 @@
+{
+    "name": "Testing Stage",
+    "description": "A Stage made for testing stuff.",
+    "scale": 1,
+    "map": [
+        [
+            [0, 1, 0],
+            [2, 0, 3],
+            [0, 1, 0]
+        ],
+        [
+            [0, 0, 0],
+            [0, 2, 0],
+            [0, 0, 0]
+        ],
+        [
+            [3, 0, 1],
+            [0, 2, 0],
+            [3, 0, 1]
+        ]
+    ]
+}
